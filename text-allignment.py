@@ -1,3 +1,7 @@
+
+#  https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true
+
+
 w = int(input())   #  width
 h = "H"
 x = 1   #  its for top hone
